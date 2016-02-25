@@ -13,6 +13,14 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.greatapps.jatinthareja.tic_tac_toe.MainActivity"
     tools:showIn="@layout/activity_main">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/heading"
+        android:layout_centerHorizontal="true"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="#000"/>
 
    <LinearLayout
        android:layout_width="wrap_content"

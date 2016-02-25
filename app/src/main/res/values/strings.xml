@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Tic-Tac-Toe</string>
     <string name="action_settings">Exit</string>
+    <string name="heading"><u>Tic-Tac-Toe</u></string>
     <string name="pl1">Player 1:</string>
     <string name="pl2">Player 2:</string>
     <string name="exitTitle">Confirm Exit</string>
